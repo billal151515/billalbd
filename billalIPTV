@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
@@ -75,7 +76,7 @@ http://103.157.237.18:8000/play/215
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
 http://tv.pmcon.net/hls/stream26.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxVN2D0/images-1-removebg-preview-3.png" group-title="India Bangla", Enter 10 Bangla(2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxVN2D0/images-1-removebg-preview-3.png" group-title="Indian Bangla", Enter 10 Bangla(2)
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
@@ -83,7 +84,7 @@ https://d2k667g61yse6h.cloudfront.net/101.m3u8
 http://103.157.237.18:8000/play/206
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
 http://103.157.237.18:8000/play/201
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="India Bangla",Star Jalsha HD (4)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (4)
 http://180.210.191.2/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies-1
 http://180.210.191.2/hls/stream27.m3u8
@@ -95,7 +96,7 @@ http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?toke
 http://103.157.237.18:8000/play/210
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png",Sun Bangla (HD)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Indian Bangla",Sun Bangla (HD)
 http://103.109.56.116/live/skyfeed1009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla HD(2)
 http://103.157.237.18:8000/play/215
