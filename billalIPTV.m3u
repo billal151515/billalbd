@@ -106,6 +106,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://103.157.237.18:8000/play/207
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Indian Bangla", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s86FPbs.png" group-title="Indian Bangla", Aakash Aath
+https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 
 
 
@@ -319,10 +321,12 @@ http://103.157.237.18:8000/play/701
 http://103.157.237.18:8000/play/703
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MX HD
 http://103.157.237.18:8000/play/734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action
 http://103.157.237.18:8000/play/315
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
@@ -398,3 +402,27 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music", 9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM
+http://tv.pmcon.net/hls/stream4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Music", ATN Music
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music", RTV Music 
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Music", Zingg
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom
+http://tv.pmcon.net/hls/stream8.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6ck1CHa.png",Zoom 2
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global)
+https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/11/bang-2-2.jpg",Bangla Talkies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+
+
