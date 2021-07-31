@@ -74,24 +74,32 @@ http://103.109.56.116/live/skyfeed1012/index.m3u8
 http://103.157.237.18:8000/play/214
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (1)
 http://tv.pmcon.net/hls/stream26.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (2)
+http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pxVN2D0/images-1-removebg-preview-3.png" group-title="Indian Bangla", Enter 10 Bangla(2)
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(2)
 http://103.157.237.18:8000/play/206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(3)
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD (1)
 http://103.157.237.18:8000/play/201
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (4)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (2)
 http://180.210.191.2/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (3)
+http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies-1
 http://180.210.191.2/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD
 http://103.157.237.18:8000/play/203
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD 2
 http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD 3
+http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath
 http://103.157.237.18:8000/play/210
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath 2
@@ -106,6 +114,8 @@ http://103.157.237.18:8000/play/215
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD
 http://103.157.237.18:8000/play/207
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD 2
+http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Indian Bangla", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s86FPbs.png" group-title="Indian Bangla", Aakash Aath
@@ -230,9 +240,9 @@ http://103.157.237.18:8000/play/326
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/0hjyA0E.png",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg",UTV (cdn)
+#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg", UTV (cdn)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6236
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg",UTV
+#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg", UTV
 http://103.157.237.18:8000/play/314
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
@@ -297,10 +307,7 @@ http://103.157.237.18:8000/play/707
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies 
-http://tv.pmcon.net/hls/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies
-http://103.153.175.254:8080/hls/stream3.m3u8
+
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies
@@ -309,10 +316,16 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
 http://103.157.237.18:8000/play/314
-#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies SD (2)
+#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies SD (1)
 http://103.157.237.18:8000/play/704
-#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies HD (3)
+#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies HD (2)
 http://103.157.237.18:8000/play/705
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (3) 
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (4)
+http://103.153.175.254:8080/hls/stream3.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (5)
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="English", Warner Bros Tv 
 http://103.157.237.18:8000/play/738 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX 
@@ -323,12 +336,21 @@ http://103.157.237.18:8000/play/701
 http://103.157.237.18:8000/play/703
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MX HD
 http://103.157.237.18:8000/play/734
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action
-http://103.157.237.18:8000/play/315
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English", MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png" group-title="English", UTV Action (2)
+http://103.157.237.18:8000/play/315
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
+http://103.157.237.18:8000/play/314
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV (cdn)
+http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6236
+
+
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",Live Sports
