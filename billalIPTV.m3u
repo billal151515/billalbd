@@ -341,10 +341,11 @@ http://103.157.237.18:8000/play/734
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English", MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action (1)
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/211-2118020_utv-action-utv-action-logo-png.png" group-title="English", UTV Action (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action (2)
 http://103.157.237.18:8000/play/315
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
 http://103.157.237.18:8000/play/314
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV (cdn)
