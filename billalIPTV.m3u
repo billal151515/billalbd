@@ -348,7 +348,7 @@ http://103.157.237.18:8000/play/315
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
 http://103.157.237.18:8000/play/314
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV (cdn)
+#EXTINF:-1 tvg-logo=" " group-title="English", UTV (cdn)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6236
 
 
