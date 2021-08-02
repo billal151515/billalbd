@@ -67,55 +67,62 @@ http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/37131
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 http://185.180.221.194:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD(2)
-http://103.157.237.18:8000/play/213
+http://103.81.104.118/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD(3)
 http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla Cinema 
-http://103.157.237.18:8000/play/214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD(5)
+http://bd.digiiptv.net:25461/moznu43/PA2443/976 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (1)
-http://tv.pmcon.net/hls/stream26.m3u8
+http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (2)
 http://idvd.multitvsolution.com/idvo/enter10bangla_360p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxVN2D0/images-1-removebg-preview-3.png" group-title="Indian Bangla", Enter 10 Bangla(2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pxVN2D0/images-1-removebg-preview-3.png" group-title="Indian Bangla", Enter 10 Bangla(3)
 http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (4) digi
+http://bd.digiiptv.net:25461/moznu43/PA2443/2654
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (1)
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(2)
-http://103.157.237.18:8000/play/206
+http://103.159.4.38:8080/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(3)
 http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(4) digi
+http://bd.digiiptv.net:25461/moznu43/PA2443/975
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD (1)
-http://103.157.237.18:8000/play/201
+http://bd.digiiptv.net:25461/moznu43/PA2443/898
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (2)
-http://180.210.191.2/hls/stream31.m3u8
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (3)
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies-1
-http://180.210.191.2/hls/stream27.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD
-http://103.157.237.18:8000/play/203
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies(1)
+http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies HD(2)
+http://bd.digiiptv.net:25461/moznu43/PA2443/962
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (3)
 http://212.224.98.204:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=RK
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (4)
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath
-http://103.157.237.18:8000/play/210
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (1)
+http://tvflix2.ddns.net/bee-global/sonyaath/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (2)
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla (1)
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Indian Bangla",Sun Bangla (HD)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Indian Bangla",Sun Bangla (2)
 http://103.109.56.116/live/skyfeed1009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla HD(2)
-http://103.157.237.18:8000/play/215
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla HD(3)
+http://bd.digiiptv.net:25461/moznu43/PA2443/1012
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema (1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD
-http://103.157.237.18:8000/play/207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD (2)
+http://103.159.4.38:8080/IN-BANGLA-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD (3)
 http://jupiter.bdcabletv.com/ZeeBanglaCinema/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema HD (4)
+http://bd.digiiptv.net:25461/moznu43/PA2443/975 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Indian Bangla", Travel XP HD Bangla
 http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s86FPbs.png" group-title="Indian Bangla", Aakash Aath
@@ -129,7 +136,7 @@ http://sonyiptv.net:8080/live/prasad124/00000/147747.m3u8 ; http://103.157.237.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
-http://tv.pmcon.net/hls/stream38.m3u8
+http://103.81.104.118/hls/stream38.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi", & Pictures SD
@@ -284,7 +291,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN
-http://103.157.237.18:8000/play/737
+http://bd.digiiptv.net:25461/moznu43/PA2443/2453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD
@@ -294,7 +301,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO 2
-http://103.157.237.18:8000/play/739
+http://bd.digiiptv.net:25461/moznu43/PA2443/2439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", MN+
 http://103.157.237.18:8000/play/730
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD
@@ -307,7 +314,6 @@ http://103.157.237.18:8000/play/707
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies
@@ -315,36 +321,27 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
-http://103.157.237.18:8000/play/314
-#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies SD (1)
-http://103.157.237.18:8000/play/704
-#EXTINF:-1 tvg-logo="https://is.gd/aikPwd" group-title="English", Star Movies HD (2)
-http://103.157.237.18:8000/play/705
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (3) 
-http://tv.pmcon.net/hls/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (4)
+http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (1)
 http://103.153.175.254:8080/hls/stream3.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (5)
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg" group-title="English", Star Movies (2)
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="English", Warner Bros Tv 
-http://103.157.237.18:8000/play/738 
+http://bd.digiiptv.net:25461/moznu43/PA2443/2517 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX 
 http://103.157.237.18:8000/play/713
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World 
 http://103.157.237.18:8000/play/701
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier
-http://103.157.237.18:8000/play/703
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", UTV action
+http://bd.digiiptv.net:25461/moznu43/PA2443/588
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MX HD
 http://103.157.237.18:8000/play/734
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English", MBC Max
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action (1)
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Action (2)
-http://103.157.237.18:8000/play/315
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
 http://103.157.237.18:8000/play/314
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV (cdn)
@@ -433,7 +430,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9X Music
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Music", 9XM
-http://tv.pmcon.net/hls/stream4.m3u8
+http://103.81.104.118/hls/stream4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OTzS5Fc.png" group-title="Music", ATN Music
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Music", RTV Music 
