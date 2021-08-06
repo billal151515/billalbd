@@ -282,19 +282,15 @@ http://103.157.237.18:8000/play/312
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (bdix)
-
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (2)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10156
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (3)
-http://103.157.237.18:8000/play/338
+#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/wzkBYm5/Sony-Max-HD.png",Sony Max HD (2)
+http://pn.tvott.info:80/307200113544/307200113544/83705
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX SD
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6574/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/sony_max_in.png",SONY MAX SD (2)
 http://103.157.237.18:8000/play/337
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.skychannellist.com/images/sony-max-2.png",SONY MAX 2
 http://103.153.39.34:8000/play/a06r/index.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://www.skychannellist.com/images/sony-max-2.png",SONY MAX 2
-http://103.157.237.18:8000/play/339
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg",SONY Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/v4j2mt9.png",Mini Plex
@@ -305,8 +301,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg", UTV (cdn)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/6236
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg", UTV
-http://103.157.237.18:8000/play/314
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="http://www.kcvnet.in/images/chanellogo/manoranjan_tv_in.png",Manoranjan Tv
 http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/HPSfFVb/download-removebg-preview-1.png",Manoranjan Movies
@@ -364,10 +358,12 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/372
 http://bd.digiiptv.net:25461/moznu43/PA2443/2439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", Showtime HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/373
-#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD
+#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD (1)
 http://watchindia.net:8880/live/33253/72963/2102.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (2)
 http://103.153.39.34:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (3)
+http://pn.tvott.info:80/307200113544/307200113544/83604
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://103.157.237.18:8000/play/707
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
@@ -384,8 +380,10 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/2450
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (1)
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (2)
+http://pn.tvott.info:80/307200113544/307200113544/83598
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (1)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (2)
@@ -402,8 +400,12 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/725
 http://bd.digiiptv.net:25461/moznu43/PA2443/707
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", AMC digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/722
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", UTV action
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", UTV action (1)
 http://bd.digiiptv.net:25461/moznu43/PA2443/588
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", UTV action (2)
+http://pn.tvott.info:80/307200113544/307200113544/83632
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", UTV action (3)
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MBC Action HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2462
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
@@ -422,9 +424,10 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/108
 http://bd.digiiptv.net:25461/moznu43/PA2443/990
 #EXTINF:-1 tvg-logo="" group-title="English", FX digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/1108
-
-
-
+EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
+http://pn.tvott.info:80/307200113544/307200113544/83605
+EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
+http://pn.tvott.info:80/307200113544/307200113544/83603
 
 
 
