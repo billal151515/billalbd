@@ -438,8 +438,14 @@ http://pn.tvott.info:80/307200113544/307200113544/83603
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports", Star Sports Bangla
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/502.m3u8?token=GRtQWBcJRgkUVlwIVlBbCVIDCFBdAABXBQ4ABA0MUAMEDQ5YVFRXClREFRNHERFUVg9mX11EAlQCBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bC1YEUQ0aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAICABRQ0gRVQlMX0AXGhMNQHtyG0oaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbDAhUVEZO
-#EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports",T Sports
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/1142.m3u8?token=rk&token=GRtQWBcJRgkUA10IUVNXCFQHWwAKVgoFCwJWVwoIWQRbAAsAVAUBA1dEFRNHERFUVg9mX11EAlADAlMYG0wSVhBmUV1GW0YAA1QBABZJQUVeD1wUA1YUQ0JfBRYDG1QHUg8aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAIDQ1VQ0gRVQlMX0AXGhMNQHtyG0oaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQ1SVFERSw==
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 2
+http://45.87.29.50:25461/live/477816014111154/477816014111154/83850.m3u8?token=ZEhoTzNaclhlZmcyNW1S
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 3
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 4
+http://bd.digiiptv.net:25461/moznu43/PA2443/2628
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports", Live Sports
 http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10169
@@ -479,7 +485,7 @@ http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/index.m3u8?token=RK
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Sony live
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp, https://pubads.g.doubleclick.net/ssai/event/JbFMr4I_ReyfFIwLjEaZZw/master.m3u8
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8?token=hubtvapp,https://pubads.g.doubleclick.net/ssai/event/JbFMr4I_ReyfFIwLjEaZZw/master.m3u8
 
 
 
