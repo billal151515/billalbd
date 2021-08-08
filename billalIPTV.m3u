@@ -323,8 +323,8 @@ http://103.157.237.18:8000/play/331
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="", Colors Vineplex bollywood
 http://orangetv0090.ddns.net//HINDI_SONY_WAH/tracks-v1a1/mono.m3u8?token=test
 
-
-
+#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="", Star maa movies
+http://watchindia.net:8880/live/33253/72963/934.ts
 
 
 
