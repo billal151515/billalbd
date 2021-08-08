@@ -194,9 +194,8 @@ https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/592.m3u8?token=&token=GRtQWBcJRgkUUw9QBQBUAlUEXAFaBQgHAQBWA1oOUAVVXAANBQBXVgdEFRNHERFUVg9mX11EAlQLBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bAVEGWxsUGwEZEFZECFhdawEGR14BXBQDCE0NXhpDW1dmBVYPWFZdRltGAxRKG1hHFUELWRdVWhVEWghGRABAXBtbEVMOAAhGTUZQWRNXRUYcQQtZF1VaFURdGUZTD0dQVg8RWBtVChFZRh8UD0puRgAQRUUHWFtcFBpbEAZDGBtUAEs9WldXCgQHR18JV0IWX0EDFU4bW1YIURVdRD5EUF1DCUAICQ9WWUZO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/592.m3u8?token=&token=GRtQWBcJRgkUXloDDARTCFRbCFQJB1pWBQ8DBg8OWABSWwAMAAJTAwVEFRNHERFUVg9mX11EAlQLBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bClABUQsaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUALDwFUQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhSU1wRSw==
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
@@ -226,13 +225,13 @@ http://tv.pmcon.net/hls/stream25.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
-http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/586.m3u8?token=&token=GRtQWBcJRgkUAw8EB1UBUwQBDQ9cUQ4HAQUHDF0MWVZWC1sPUlNQAAJEFRNHERFUVg9mX11EAlQKAE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bCFADUgkaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAIAQtXQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhRUVARSw==
+http://136.243.49.166/2022081619/2Ei4RXCjux/99882538.ts1EAlQKAE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bCFADUgkaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAIAQtXQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhRUVARSw==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi", & TV HD
 http://tvflix2.ddns.net/bee-global/andtv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony Sab
-http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/603.m3u8?token=&token=GRtQWBcJRgkUAAEBVgcHV1JUWwMKAw1QAAMHUl9fWARSXwsBAVkAAgJEFRNHERFUVg9mX11EAlcCBU0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bC1kCVAoaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAIAQ5WQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhcV1MRSw==
+http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
 
 
 
@@ -429,12 +428,19 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/108
 http://bd.digiiptv.net:25461/moznu43/PA2443/990
 #EXTINF:-1 tvg-logo="" group-title="English", FX digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/1108
-EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
-http://pn.tvott.info:80/307200113544/307200113544/83605
-EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
-http://pn.tvott.info:80/307200113544/307200113544/83603
+#EXTINF:-1 tvg-logo="" group-title="English", Netflix Action
+http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/29460
 
+#EXTINF:-1 tvg-logo="" group-title="English", Netflix Sci-fie
+http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/29461
+#EXTINF:-1 tvg-logo="" group-title="English", Bein Movie 1
+http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/1454
 
+#EXTINF:-1 tvg-logo="" group-title="English", Filmrise movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports", Star Sports Bangla
