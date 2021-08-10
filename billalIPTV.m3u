@@ -307,6 +307,10 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema (2)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10254
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://dl.dropbox.com/s/w3p0169nkqeprep/zeeanmol.jpg" group-title="HINDI CHANNELS",Zee Anmol
+http://bd.digiiptv.net:25461/moznu43/PA2443/612
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="ZEE Anmol Cinema " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171015193443" group-title="HINDI CHANNELS",ZEE Anmol Cinema 
+http://bd.digiiptv.net:25461/moznu43/PA2443/613
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png",ZEE Action
