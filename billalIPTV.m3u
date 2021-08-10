@@ -311,9 +311,9 @@ http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/dGzNffT/uoOJjLl.png",Zee Anmol Cinema (2)
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/10254
-#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://dl.dropbox.com/s/w3p0169nkqeprep/zeeanmol.jpg" group-title="HINDI CHANNELS",Zee Anmol
+#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol" tvg-logo="https://dl.dropbox.com/s/w3p0169nkqeprep/zeeanmol.jpg" group-title="Indian (Movies)", Zee Anmol
 http://bd.digiiptv.net:25461/moznu43/PA2443/612
-#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="ZEE Anmol Cinema " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171015193443" group-title="HINDI CHANNELS",ZEE Anmol Cinema 
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="ZEE Anmol Cinema " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171015193443" group-title="Indian (Movies)", ZEE Anmol Cinema 
 http://bd.digiiptv.net:25461/moznu43/PA2443/613
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
@@ -329,7 +329,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u
 http://watchindia.net:8880/live/33253/72963/787.ts
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/ydKOVT2.png",ZEE Classic
 http://watchindia.net:8880/live/33253/72963/802.ts
-#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://dl.dropbox.com/s/lf6coe3owjqyncu/zeeclassic.jpg" group-title="HINDI CHANNELS",Zee Classic digi
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://dl.dropbox.com/s/lf6coe3owjqyncu/zeeclassic.jpg" group-title="Hindi",Zee Classic digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/586
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood
 http://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
