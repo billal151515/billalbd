@@ -69,6 +69,8 @@ http://103.157.237.18:8000/play/132
 http://bd.digiiptv.net:25461/moznu43/PA2443/536
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (2)
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (3) internet tv
+http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxZ6Myf/deepto-television-removebg-preview.png" group-title="Bangla", Deepto Tv-2
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 1
