@@ -141,7 +141,7 @@ https://is.gd/7leaqz
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/6N3jcf8.png",GBangla Tv
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://en.m.wikipedia.org/wiki/Ekattor_TV#/media/File%3AEkattor_TV_logo.png",Ekattor TV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV
 http://bd.digiiptv.net:25461/moznu43/PA2443/2045
 
 
@@ -276,18 +276,22 @@ http://tvflix2.ddns.net/bee-global/andtv/chunks.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/CwdZ9Dg/2021-05-04-11-00-14-removebg-preview.png",Star Gold Select HD
 http://bd.digiiptv.net:25461/moznu43/PA2443/706
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony Sab
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-sab-hd-logo-300x300.jpg" group-title="Hindi", Sony Sab
 http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony Pal
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/3478
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Colors HD
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg" group-title="Hindi", Colors HD
 http://bd.digiiptv.net:25461/moznu43/PA2443/605
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Utsab Gold
 http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 
@@ -317,6 +321,8 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u
 http://watchindia.net:8880/live/33253/72963/787.ts
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.imgur.com/ydKOVT2.png",ZEE Classic
 http://watchindia.net:8880/live/33253/72963/802.ts
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://dl.dropbox.com/s/lf6coe3owjqyncu/zeeclassic.jpg" group-title="HINDI CHANNELS",Zee Classic digi
+http://bd.digiiptv.net:25461/moznu43/PA2443/586
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood
 http://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
