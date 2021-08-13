@@ -446,7 +446,7 @@ http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (3)
 http://pn.tvott.info/live/7109102728/5104566057/83604.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
-http://103.157.237.18:8000/play/707
+http://178.79.161.66/woh/index.m3u8?id=47859
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
@@ -467,8 +467,8 @@ http://pn.tvott.info/live/7109102728/5104566057/164196.ts
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/80175.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (1)
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (2)
-http://pn.tvott.info:80/307200113544/307200113544/83598
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV HD(2)
+http://pn.tvott.info/live/7109102728/5104566057/83631.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (1)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (2)
@@ -491,8 +491,8 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/725
 http://pn.tvott.info/live/7109102728/5104566057/83605.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
 http://pn.tvott.info/live/7109102728/5104566057/83603.ts
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World 
-http://bd.digiiptv.net:25461/moznu43/PA2443/707
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier
+http://178.79.161.66/woh/index.m3u8?id=47859
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", AMC digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (1)
