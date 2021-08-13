@@ -217,6 +217,8 @@ http://tvflix2.ddns.net/bee-global/sonyaath/chunks.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (3)
 http://tvflixbdvip.ddns.net/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (4) tvott
+http://pn.ttvott.info/live/7109102728/5104566057/83798.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla (1)
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Indian Bangla",Sun Bangla (2)
@@ -421,6 +423,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3) tvott
+http://pn.tvott.info/live/7109102728/5104566057/83703.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English", Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
@@ -455,6 +459,10 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/708
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies ottv
+http://pn.tvott.info/live/7109102728/5104566057/177557.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Bein Fox Movies 4K
+http://pn.tvott.info/live/7109102728/5104566057/164196.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (1)
@@ -479,8 +487,10 @@ http://pn.tvott.info/live/7109102728/5104566057/83635.ts
 http://bd.digiiptv.net:25461/moznu43/PA2443/2517 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", SyFy digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/725
-EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
 http://pn.tvott.info/live/7109102728/5104566057/83605.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
+http://pn.tvott.info/live/7109102728/5104566057/83603.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World 
 http://bd.digiiptv.net:25461/moznu43/PA2443/707
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", AMC digi
@@ -491,6 +501,12 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/588
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (3)
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) tvott
+http://pn.tvott.info/live/7109102728/5104566057/83632.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV English (tvott)
+http://pn.tvott.info/live/7109102728/5104566057/83631.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV Movies hindi (tvott)
+http://pn.tvott.info/live/7109102728/5104566057/83598.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MBC Action HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2462
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
