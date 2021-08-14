@@ -363,8 +363,11 @@ http://watchindia.net:8880/live/33253/72963/830.ts
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold (cdn)
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/605.m3u8?token=&token=GRtQWBcJRgkUXg0DDQFVAQNaDQYAVAoFAgdQVg0BWARbDAhcV1YBBA9EFRNHERFUVg9mX11EAlcCB00WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bCFkBUw8aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUANCAlSQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhcUVMRSw==
+#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png",Star Gold 4K (zain tv)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/108261.ts
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
 http://103.157.237.18:8000/play/309
+
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/CwdZ9Dg/2021-05-04-11-00-14-removebg-preview.png",Star Gold Select HD
 http://bd.digiiptv.net:25461/moznu43/PA2443/706
 #EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/CwdZ9Dg/2021-05-04-11-00-14-removebg-preview.png",Star Gold Select SD
@@ -516,6 +519,8 @@ http://pn.tvott.info/live/7109102728/5104566057/83605.ts
 http://pn.tvott.info/live/7109102728/5104566057/83603.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier
 http://178.79.161.66/woh/index.m3u8?id=47859
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier 4K (zain tv)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/108255.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", AMC digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (1)
