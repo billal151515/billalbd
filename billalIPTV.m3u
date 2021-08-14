@@ -471,8 +471,7 @@ http://pn.tvott.info/live/7109102728/5104566057/177557.ts
 http://pn.tvott.info/live/7109102728/5104566057/164196.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/80175.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies (1)
-http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (1)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -510,6 +509,10 @@ http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 http://pn.tvott.info/live/7109102728/5104566057/83632.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English (tvott)
 http://pn.tvott.info/live/7109102728/5104566057/83631.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English HD
+http://rv.bleutv.net/live/477816014111154/477816014111154/83631.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies Hindi (1)
+http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies hindi (tvott)
 http://pn.tvott.info/live/7109102728/5104566057/83598.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MBC Action HD digi
