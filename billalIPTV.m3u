@@ -449,6 +449,8 @@ http://watchindia.net:8880/live/33253/72963/2102.ts
 http://103.153.39.34:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (3) tvott
 http://pn.tvott.info/live/7109102728/5104566057/83604.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (4) zaintv
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56277.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD
 http://178.79.161.66/woh/index.m3u8?id=47859
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
