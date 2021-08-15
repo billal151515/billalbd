@@ -573,6 +573,45 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 #EXTINF:-1 tvg-logo="" group-title="English", Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Action (1)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/86792.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Action (2)
+http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/15720.ts
+
+
+#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg" group-title="English", Sky Cinema Premier (1)
+http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/671389.ts
+
+
+#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184453.jpg" group-title="English", Sky Cinema Sci-fie&Horror (1)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/86598.ts
+
+
+#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184453.jpg" group-title="English", Sky Cinema Sci-fie&Horror (2)
+http://teslaiptv.com:8080/live/hannaxhanna/es576457/81772.ts
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Sky_Cinema_Thriller_HD_2017_uk.png/revision/latest?cb=20200608130400" group-title="English", Sky Cinema Thriller (1)
+http://teslaiptv.com:8080/live/hannaxhanna/es576457/81774.ts
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Sky_Cinema_Thriller_HD_2017_uk.png/revision/latest?cb=20200608130400" group-title="English", Sky Cinema Thriller (2)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/86595.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="English", Sky Cinema Select (1)
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/86600.ts
+
+#EXTINF:-1 tvg-logo="" group-title="English", Sky Cinema Select (2)
+http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/6551.ts
+
+
+
+
+
+
+
 
 #EXTINF:-1tvg-logo="https://imgur.com/ho0ch9s.png" group-title="Sports", Star Sports Bangla
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/502.m3u8?token=GRtQWBcJRgkUVlwIVlBbCVIDCFBdAABXBQ4ABA0MUAMEDQ5YVFRXClREFRNHERFUVg9mX11EAlQCBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bC1YEUQ0aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUAICABRQ0gRVQlMX0AXGhMNQHtyG0oaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbDAhUVEZO
