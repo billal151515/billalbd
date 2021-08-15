@@ -488,7 +488,7 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/613
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png",ZEE Bioscope
 http://210.210.155.35/session/591b1504-7e5c-11eb-914d-b6588e649a05/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png",ZEE Bioscope
+#EXTINF:-1 tvg-logo="EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zee_Bioskop.png",ZEE Bioscope
 http://210.210.155.35/session/591b1504-7e5c-11eb-914d-b6588e649a05/qwr9ew/s/s32/01.m3u8" group-title="Hindi", Zee Bolywood wi
 http://watchindia.net:8880/live/33253/72963/822.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood 
