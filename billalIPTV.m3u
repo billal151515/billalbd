@@ -216,6 +216,16 @@ http://173.199.116.220/hls/peacetv.m3u8
 #EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", ATN Islamic
 https://piratesiptv.shortcm.li/atnislam.m3u8
 
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Iqra TV Bangla
+http://bd.digiiptv.net:25461/moznu43/PA2443/999
+
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Madani TV
+http://209.126.120.91/hls/madanitv.m3u8
+
+
+
+
+
 
 
 
