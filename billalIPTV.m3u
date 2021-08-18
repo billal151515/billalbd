@@ -89,6 +89,9 @@ http://iptvbd.jagobd.com:1931/boishakhi/deeptotv.stream/chunks.m3u8?ITCNBD_IPTV=
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (6) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100281.ts
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Desh TV
+http://209.126.120.155/hls/deshtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 1
 http://bd.digiiptv.net:25461/moznu43/PA2443/539
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 2
@@ -135,6 +138,9 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/100292.ts
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pcdn1.jagobd.com/images/s-snop6b1620799533600.jpg",Jagoroni tv
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", KTV Bangla
+http://server1.jadubd.com/ktvbangla/ktvbangla/chunklist_w601127170.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
@@ -480,6 +486,9 @@ http://103.81.104.118/hls/stream38.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/56313.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Utsab
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/87215.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi", UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
