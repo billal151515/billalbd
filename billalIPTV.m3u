@@ -882,13 +882,15 @@ https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 http://212.224.98.196:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=RK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Music", MTV Beats
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/56288.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Music", MTV Hits
+http://188.40.68.167/russia/mtv_hits/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",Music
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music", 9X Jalwa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music", 9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
@@ -903,7 +905,7 @@ http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmS55kU.png" group-title="Music", Zingg
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom
-http://tv.pmcon.net/hls/stream8.m3u8
+http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/612.m3u8?token=&token=GRtQWBcJRgkUBFxUA1ICUA5bDwRdUABUUAcFUglcAgJWDgxfUFEAAA9EFRNHERFUVg9mX11EAlcDBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bAFUGUBsUGwEZEFZECFhdawEGR14BXBQDCE0NXhpDW1dmBVYPWFZdRltGAxRKG1hHFUELWRdVWhVEWghGRABAXBtbEVMBCAtGTUZQWRNXRUYcQQtZF1VaFURdGUZTD0dQVg8RWBtVChFZRh8UD0puRgAQRUUHWFtcFBpbEAZDGBtUAEs9WldXCgQHR18JV0IWX0EDFU4bW1YIURVdRD5EUF1DCUAICglTV0ZO
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6ck1CHa.png",Zoom 2
 https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global)
