@@ -43,6 +43,9 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV (zain tv)
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100271.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnf3eB2dyNMWSjeLRqhSehvttmSTiQiO10gzJBJILFUh6wsVMQNLCZZ2W&s=10" group-title="Bangla", Boishakhi Plus
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pcdn1.jagobd.com/images/s-ogu4b1604594313792.jpg",Can Bangla
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla", Channel 24 HD
@@ -89,8 +92,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/deeptotv.stream/chunks.m3u8?ITCNBD_IPTV=
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (6) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100281.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla",Desh TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtZDlLMtAZ64iWJXzbuCSATo1Dr5Kf2bxu1WCkLdmSY1IAckjEfR1ZqY&s=10" group-title="Bangla",Desh TV
 http://209.126.120.155/hls/deshtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSujwAMKyv6G2ktn7PaIWhWaxoL1RyfWhkUsAikclJG_0bVXBHNuUNUKelL&s=10" group-title="Bangla", Doyel TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV 1
 http://bd.digiiptv.net:25461/moznu43/PA2443/539
@@ -125,6 +131,8 @@ http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/37131
 http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla", Independent TV HD (internet tv)
 http://103.81.104.118/hls/indepen.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jCCR0iSOK3LLzAioDBGzv8kZgKAXyOFn7g&usqp=CAU" group-title="Bangla", Ion TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", Jamuna TV
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -156,8 +164,11 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://103.81.104.118/hls/stream20.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100294.ts
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Meghna TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLc3Xtb6iYk82zuJmfSPJI8MRfAuaR7jyOHv1Av8tQ3G4pik4ZG-gcAc&s=10" group-title="Bangla", Meghna TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" group-title="Bangla", Millenium TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
 http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV internet tv
@@ -180,8 +191,13 @@ http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/868624421585596418/VSzAiopn.jpg",NRB Tv
 https://tempabs.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/HTV_Logo.png" group-title="Bangla", Nan TV
+http://iptvbd.jagobd.com:1931/boishakhi/nantv.stream/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2B7on41f6SE22spls9mCqSCMKgAXbcIzlw&usqp=CAU" group-title="Bangla", Palli Bangla
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pollitv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCcn8WZf04Wk_Gh1d9GlzePlajNY3XnjTJ5uRbVGK3RhmWKsT9aqq6qaH&s=10", PanVision TV
+http://iptvbd.jagobd.com:1931/boishakhi/panvisiontvs.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="Bangla",Rtv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
@@ -213,6 +229,18 @@ http://starprimoum.ddns.net:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJNpgEEjiPrQIsdrSacsv-6iEyraxkU1QhktmSfw5tgFpZnG1soTljEo&s=10" group-title="Bangla", Alif TV
 http://128.199.212.160/aliftv/1080/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumguCsjukjYavjCCdcVF9mC1ApUpcaTnOWnE-kN-BkKsZc2vwOaTGVXbJ&s=10" group-title="Bangla", CNN Bangla
+https://cdn1-europe.smartcast.tv:443/rtvd/cnnb_backup/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://digibangla.tv/assets/img/logo-tv.png" group-title="Bangla", Digi TV
+http://103.205.133.44:1935/extban/chdigihd/chunklist_w1012398058.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMSbWxDxKBo1d8u35Kocy5gWYaVbnXLsj-Wg&usqp=CAU" group-title="Bangla", iTV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/HTV_Logo.png" group-title="Bangla", HTV
+http://enaniptv.com/Htv/1080/index.m3u8
 
 
 
