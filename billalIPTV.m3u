@@ -23,6 +23,9 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pcdn.jagobd.com/images/s-7ptb0p1591891815113.jpg",AB Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0aWWReDG12FFaSlhPBeGVQ_2yv939dUHwaw&usqp=CAU" group-title="Bangla", Bangla 21 TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg",biswa bangla tv
 http://103.43.148.202:1931/iptv/biswabanglatv.stream/chunks.m3u8
@@ -63,10 +66,10 @@ http://103.81.104.118/hls/stream18.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100276.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel S 
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x23528" group-title="Bangla", Channel S 
 http://iptvbd.jagobd.com:1931/boishakhi/channelsbd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel H
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/09/Channel-H.jpg" group-title="Bangla", Channel H
 http://iptvbd.jagobd.com:1931/boishakhi/channelhtv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://channel23.tv/wp-content/uploads/2020/02/channel-23.png",Channel 23
 http://103.108.140.164:1009/channel23/livestream/playlist.m3u8
@@ -118,6 +121,10 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/100285.ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.abohomanbangla.com/Bangladesh_web_directory/tv_image/71bangla.jpg",71 Bangla Tv
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg",Falguni TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV (1)
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV (2)
@@ -146,6 +153,9 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/100292.ts
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pcdn1.jagobd.com/images/s-snop6b1620799533600.jpg",Jagoroni tv
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2.jpg?x23528",Jonmovumi TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla", KTV Bangla
 http://server1.jadubd.com/ktvbangla/ktvbangla/chunklist_w601127170.m3u8
 
@@ -164,11 +174,18 @@ http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 http://103.81.104.118/hls/stream20.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100294.ts
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/08/magicbangla.jpeg" group-title="Bangla", Magic Bangla
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/magicbanglatv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLc3Xtb6iYk82zuJmfSPJI8MRfAuaR7jyOHv1Av8tQ3G4pik4ZG-gcAc&s=10" group-title="Bangla", Meghna TV
 http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" group-title="Bangla", Millenium TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/06/muk.jpg" group-title="Bangla", Mukti TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/muktitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV 
 http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Bangla", Nagorik TV internet tv
@@ -187,12 +204,16 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/100303.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla", News 24 HD
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Bangla", Nexus TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://pbs.twimg.com/profile_images/868624421585596418/VSzAiopn.jpg",NRB Tv
 https://tempabs.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/HTV_Logo.png" group-title="Bangla", Nan TV
 http://iptvbd.jagobd.com:1931/boishakhi/nantv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg?x23528" group-title="Bangla", Nakshi TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2B7on41f6SE22spls9mCqSCMKgAXbcIzlw&usqp=CAU" group-title="Bangla", Palli Bangla
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pollitv.stream/chunks.m3u8
@@ -261,8 +282,26 @@ https://piratesiptv.shortcm.li/atnislam.m3u8
 #EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Iqra TV Bangla
 http://bd.digiiptv.net:25461/moznu43/PA2443/999
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Madani TV
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" Madani TV
 http://209.126.120.91/hls/madanitv.m3u8
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" Madani TV (2) 
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" Iqra tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" Deen TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" Makkah live
+https://bdsl.jagobd.com/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" Madina live
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/chunks.m3u8
+
 
 
 
