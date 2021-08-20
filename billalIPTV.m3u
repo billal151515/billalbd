@@ -273,29 +273,29 @@ http://enaniptv.com/Htv/1080/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Peace TV
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFJXYuWQRIaSJCElT1yXQE3mix4mnAsZVt3ZjLAEIYirwP4m5gxGGparU&s=10", Peace TV
 http://173.199.116.220/hls/peacetv.m3u8
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", ATN Islamic
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://lh3.googleusercontent.com/B3ziYGuRlgUtI32LzFvG862YxFdpQGAzRVxawBT0fN3dd2B7Vl8t7u4ckXH3h-gAdg", ATN Islamic
 https://piratesiptv.shortcm.li/atnislam.m3u8
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Iqra TV Bangla
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg", Iqra TV Bangla
 http://bd.digiiptv.net:25461/moznu43/PA2443/999
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Madani TV
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg", Madani TV
 http://209.126.120.91/hls/madanitv.m3u8
 
 #EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg", Madani TV 2
-
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Iqra TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg", Iqra TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Deen Tv 
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png", Deen Tv 
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Makka live
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg", Makka live
 https://bdsl.jagobd.com/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="", Madina live
+#EXTINF:-1 group-title="Bangla islamic channel" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg", Madina live
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/chunks.m3u8
 
 
@@ -307,13 +307,13 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg
 
-http://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png
 
-http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg
 
-http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg
+
+
+
+
 
 
 
