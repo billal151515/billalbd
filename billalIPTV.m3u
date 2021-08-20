@@ -935,7 +935,7 @@ http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Hungama Tv 
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Wow Kids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon", Wow Kids tv
 http://54.39.134.91:9090/24x7_kids_cr3/tracks-v1a1/mono.m3u8
 
 
