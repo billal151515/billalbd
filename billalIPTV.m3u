@@ -211,6 +211,11 @@ http://starprimoum.ddns.net:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJNpgEEjiPrQIsdrSacsv-6iEyraxkU1QhktmSfw5tgFpZnG1soTljEo&s=10" group-title="Bangla", Alif TV
+http://128.199.212.160/aliftv/1080/index.m3u8
+
+
+
 
 
 
