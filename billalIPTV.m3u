@@ -885,10 +885,10 @@ http://teslaiptv.com:8080/live/hannaxhanna/es576457/81774.ts
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/86595.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="English", Sky Cinema Select (1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Sky_Cinema_Select_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Select (1)
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/86600.ts
 
-#EXTINF:-1 tvg-logo="" group-title="English", Sky Cinema Select (2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Sky_Cinema_Select_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Select (2)
 http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/6551.ts
 
 
