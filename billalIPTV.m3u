@@ -657,6 +657,9 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD English
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56360.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Bangla
@@ -666,15 +669,25 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild Hindi
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsBy7M5CcCeKvwylOeNWglKtrnJf1qEU8PR8JwixyLCsHnp7ZmyC3BNo&s=10" group-title="Documentary", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?token
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvIZz1VjQ2Rk1iVfiOQyWi0XVqPGFTz_k1uH1jvHXu3Nd91uxP6AGa6JS&s=10" group-title="Documentary", Sony BBC Earth
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56309.ts
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English", TLC SD Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC SD Hindi
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Documentary", Discovery Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Documentary", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (1) internet tv
@@ -684,8 +697,7 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/2453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (3)
 http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (1)
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (2)
@@ -728,8 +740,7 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/108279.ts
 http://178.79.161.66/woh/index.m3u8?id=47859
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2)
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/87240.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="English", Discovery Investigation
-http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
+#
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax
