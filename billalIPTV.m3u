@@ -767,10 +767,10 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/708
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2450
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies ottv
-http://pn.tvott.info/live/7109102728/5104566057/177557.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Bein Fox Movies 4K
-http://pn.tvott.info/live/7109102728/5104566057/164196.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies 
+http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Bein Fox Movies zain
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/112254.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
 http://teslaiptv.com:8080/live/hannaxhanna/es576457/80175.ts
 
