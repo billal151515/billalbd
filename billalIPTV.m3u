@@ -651,10 +651,18 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56362.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary", Animal Planet hindi
+http://bd.digiiptv.net:25461/moznu43/PA2443/2630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary", Discovery Science English
 http://bd.digiiptv.net:25461/moznu43/PA2443/2455
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary", Discovery Turbo
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/86621.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVWoTyfT4Bb2LzvVmgZz6trhQj-cQkAv5uEk1Dz90-E_xDiilDdZIJwUc&s=10" group-title="Documentary", Discovery Bangla
+http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD English
@@ -664,8 +672,8 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56360.ts
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Bangla
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56241.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild Hindi
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 
@@ -678,6 +686,8 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56309.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary", TLC SD Hindi
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbRNpwBeb2FZp2F6vVOJ_MqgWQ4Fh0QD1mw&usqp=CAU" group-title="Documentary", Travel xp
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56230.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="Documentary", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 
