@@ -753,7 +753,7 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56277.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD 4K (5) zaintv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108279.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (1)
-http://178.79.161.66/woh/index.m3u8?id=47859
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2)
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/87240.ts
 #
