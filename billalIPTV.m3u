@@ -391,13 +391,13 @@ http://103.81.104.118/hls/stream27.m3u8
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100311.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (1)
-http://tvflix2.ddns.net/bee-global/sonyaath/chunks.m3u8
+http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (2) digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (3)
 http://tvflixbdvip.ddns.net/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (4) tvott
-http://pn.ttvott.info/live/7109102728/5104566057/83798.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (4)
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath HD (5) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100309.ts
 
