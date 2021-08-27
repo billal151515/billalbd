@@ -451,6 +451,9 @@ http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/618.m3u8?token=&token=GRtQWBcJR
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/0hjyA0E.png",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png",BBO movie
+http://tv.zaintv.net/Davidemmanuel/D477376480/85681
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://www.kcvnet.in/images/chanellogo/b_flix_movies_in.png",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
