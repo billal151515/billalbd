@@ -1,13 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla alif
 http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla jago
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla zaintv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100267.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla internet tv
 http://103.81.104.118/hls/stream17.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News Alif
 http://tv.aliflailabd.com:8989/atn-news/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News jago
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News zain
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100268.ts
 
