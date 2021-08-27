@@ -85,7 +85,7 @@ http://103.81.104.118/hls/dbc.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
-http://103.157.237.18:8000/play/132
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (1) digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/536
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="Bangla", Deepto TV (2)
@@ -131,7 +131,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV (1)
 http://bd.digiiptv.net:25461/moznu43/PA2443/525
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV (2)
-http://tvflix2.ddns.net/bee-global/gazitv/chunks.m3u8
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV  HD (3) internet tv
 http://103.81.104.118/hls/Gazi-TV.m3u8
 
@@ -706,11 +706,13 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/2597
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (1) internet tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (1) aliflaila
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (2) internet tv
 http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (2)
-http://bd.digiiptv.net:25461/moznu43/PA2443/2453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (3)
+http://bd.digiiptv.net:25461/moznu43/PA2443/2453
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (4)
 http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 
 
@@ -718,9 +720,9 @@ http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3) tvott
-http://pn.tvott.info/live/7109102728/5104566057/83703.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD zain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3) aliflaila
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png"group-title="English", Sony Pix HD zain
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108297.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Max 4K zain
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108244.ts
@@ -796,9 +798,9 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/2517
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", SyFy digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
-http://pn.tvott.info/live/7109102728/5104566057/83605.ts
+http://143.244.60.10/HINDI__MNX_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
-http://pn.tvott.info/live/7109102728/5104566057/83603.ts
+http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
@@ -814,10 +816,10 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/588
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (3)
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) tvott
-http://pn.tvott.info/live/7109102728/5104566057/83632.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English (tvott)
-http://pn.tvott.info/live/7109102728/5104566057/83631.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) 
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English 
+http://85.203.33.201/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8?token=TUMOUxEKQQlGUl5XVwsMBVILAwlWAARXAVVWVwZTAFcGUwMDUwNVBgUWShYSTEpWVVRuUFEbWAIAVlRNQRRBVEQ+D1ZAWEELUgdSAlgaFBFAUFxcFwNSGBAVCwVBWxAEAlNeBUBOQVYcQANGD1lUbFBcR1BWXEAOXBAODU9DXV9pBQNfAwwHEV4WVhZNGlFARBsLV0BVDhgQBwsVEQBGVBRbRABUUlYRSBYFWxRWTEFNGwsbd31AGBAAGhUGD0FYWQ9ECEAPUEZcFkoWCEtnQVFKRUtQWA9RQEdYQ1NDHhNbAB5tAQ0NXQFXEl0OVksRDhsAGxkbD1tcDBYOET5CWFJDXBBRWloBUxYb
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English HD
 http://rv.bleutv.net/live/477816014111154/477816014111154/83631.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies Hindi (1)
