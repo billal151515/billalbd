@@ -828,11 +828,11 @@ http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) 
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English 
-http://85.203.33.201/live/xIJYJ5P6113/Z80Gk09755/6236.m3u8?token=TUMOUxEKQQlGUl5XVwsMBVILAwlWAARXAVVWVwZTAFcGUwMDUwNVBgUWShYSTEpWVVRuUFEbWAIAVlRNQRRBVEQ+D1ZAWEELUgdSAlgaFBFAUFxcFwNSGBAVCwVBWxAEAlNeBUBOQVYcQANGD1lUbFBcR1BWXEAOXBAODU9DXV9pBQNfAwwHEV4WVhZNGlFARBsLV0BVDhgQBwsVEQBGVBRbRABUUlYRSBYFWxRWTEFNGwsbd31AGBAAGhUGD0FYWQ9ECEAPUEZcFkoWCEtnQVFKRUtQWA9RQEdYQ1NDHhNbAB5tAQ0NXQFXEl0OVksRDhsAGxkbD1tcDBYOET5CWFJDXBBRWloBUxYb
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56267.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English HD
-http://rv.bleutv.net/live/477816014111154/477816014111154/83631.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies Hindi (1)
-http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies hindi (tvott)
 http://pn.tvott.info/live/7109102728/5104566057/83598.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", MBC Action HD digi
