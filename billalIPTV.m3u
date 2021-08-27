@@ -759,8 +759,8 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56277.ts
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108279.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (1)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2)
-http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/87240.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2) zaintv
+http://tv.zaintv.net/live/Davidemmanuel/D477376480/56244.ts
 #
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
