@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
-http://103.43.148.202:1931/iptv/atnbd-8-org.stream/chunks.m3u8
+http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla zaintv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100267.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla internet tv
 http://103.81.104.118/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News
-https://is.gd/VraTdM
+http://tv.aliflailabd.com:8989/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla", ATN News zain
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100268.ts
 
