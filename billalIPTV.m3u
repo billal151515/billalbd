@@ -1276,7 +1276,7 @@ http://tv.aliflailabd.com:8989/9xm/index.m3u8
 http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Alif Laila-BDIX", RTV Music [3]
 http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Alif Laila-BDIX", Sangeet Bangla [3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Alif Laila-BDIX", Sangeet Bangla
 http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
 
