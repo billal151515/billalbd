@@ -1388,14 +1388,7 @@ http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/music/B4UICC TV Server.png" group-title="ICC TV Server", (ONLINE) MTunes
 http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/MadaniChannel" group-title="ICC TV Server", (ONLINE) Madani Channel
-http://10.16.100.207:8082/ICC TV Server/sunnahtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/MakkaTV" group-title="ICC TV Server", (ONLINE) Makkah TV
-http://10.16.100.207:8082/ICC TV Server/qurantv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/PeaceTVBangla.png" group-title="ICC TV Server", (ONLINE) Peace TV Bangla
-http://10.16.100.207:8082/ICC TV Server/peacetv.m3u8
 
 
 
