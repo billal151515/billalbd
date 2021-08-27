@@ -273,9 +273,12 @@ http://enaniptv.com/Htv/1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangla", Voice TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBY_zTZnLXZCDlqCc0niPX3IypWgaw4JokMA&usqp=CAU" group-title="Bangla", Amar Bangla
+https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9D2yigcWtpLQvQp6u3qpAOZ_Me0zT4ysl-6WV_IW2cz8FLVrhYE4Osg&s=10" group-title="Bangla", Amar Cinema
+http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 
 
 
@@ -1285,40 +1288,40 @@ http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="ICC TV Server", (ONLINE) Asian TV
-http://10.16.100.203:8082/bangla/tv_asian.m3u8
+http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="ICC TV Server", (ONLINE) ATN Bangla
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="ICC TV Server", (ONLINE) Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+http://10.16.100.203:8082/bangla/banGlaTv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="ICC TV Server", (ONLINE) Bangla Vision
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+http://10.16.100.201:8082/bangla/bangLa_VISION_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="ICC TV Server", (ONLINE) Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
+http://10.16.100.201:8082/bangla/biJoy_TV_Local.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="ICC TV Server", (ONLINE) Boishakhi TV
-http://10.16.100.205/hls/boishakhi_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) channel 24
+http://10.16.100.205/hls/ch24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="ICC TV Server", (ONLINE) Channel i
-http://10.16.100.203:8082/bangla/i_Channel.m3u8
+http://10.16.100.205/hls/ch_i.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="ICC TV Server", (OFFLINE) Channel S
 https://ahmadabdullahrifat.shortcm.li/channelsuk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="ICC TV Server", (ONLINE) DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://10.16.100.201:8082/bangla/dBc_news_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="ICC TV Server", (ONLINE) Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="ICC TV Server", (ONLINE) Digi Bangla
-http://10.16.100.203:8082/bangla/digibangla24.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) Ekattor tv
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="ICC TV Server", (ONLINE) Ekushe TV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+http://10.16.100.205/hls/21etv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="ICC TV Server", (OFFLINE) Gazi TV
 http://10.16.100.201/ICC TV Server/bdgtv.m3u8
@@ -1336,55 +1339,54 @@ http://10.16.100.205/hls/my_tv_720.m3u8
 http://10.16.100.205/hls/ntv_b_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HI2UAS4.png" group-title="ICC TV Server", (ONLINE) Nagorik TV
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="ICC TV Server", (ONLINE) RTV
-http://10.16.100.203:8082/bangla/TV_R.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="ICC TV Server", (ONLINE) News 24
+http://10.16.100.203:8082/bangla/nEWs_24_local.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="ICC TV Server", (ONLINE) R TV
+http://10.16.100.203:8082/bangla/rTV_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rTP9G23.png" group-title="ICC TV Server", (ONLINE) Akash Aath
-http://10.16.100.204/hls/akash_aath_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) Sony aath
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="ICC TV Server", (ONLINE) Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
+http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="ICC TV Server", (ONLINE) Star Jalsha
-http://10.16.100.204/hls/star_jalsha.m3u8
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="ICC TV Server", (ONLINE) Zee Bangla
-http://10.16.100.204/hls/zee_bangla_720.m3u8
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="ICC TV Server", Kalkata tv
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="ICC TV Server", (ONLINE) & TV
-http://10.16.100.204/hls/&tv.m3u8
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="ICC TV Server", (ONLINE) Colors
-http://10.16.100.201/ICC TV Server/colorsin.m3u8
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="ICC TV Server", (ONLINE) Sony TV
-http://10.16.100.204/hls/sony_tv_720.m3u8
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="ICC TV Server", (ONLINE) Bangla TV
-http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) Star Plus
+http://10.16.100.200:8082/hls/star_Plus_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="ICC TV Server", (ONLINE) Bangla Vision
-http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="ICC TV Server", (ONLINE) Bijoy TV
-http://10.16.100.203:8082/bangla/bijoytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="ICC TV Server", (ONLINE) Boishakhi TV
-http://10.16.100.205/hls/boishakhi_720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) Sangeet Bangla
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/SangeetBangla.png" group-title="ICC TV Server", (ONLINE) Sangeet Bangla
-http://10.16.100.207:8082/ICC TV Server/sangeet_bangla.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="ICC TV Server", (ONLINE) Gaan Bangla
+http://10.16.100.200:8082/hls/gan_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/9xM.png" group-title="ICC TV Server", (ONLINE) 9xM
-http://10.16.100.204/hls/9xm_720.m3u8
+http://10.16.100.200:8082/hls/nine_xm_local.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ICC TV Server", (ONLINE) Dhoom ICC TV Server
-http://10.16.100.201/ICC TV Server/dhoom_ICC TV Server.m3u8
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/B4UICC TV Server.png" group-title="ICC TV Server", (ONLINE) MTunes
-http://10.16.100.207:8082/ICC TV Server/mtuness.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/music/B4UICC TV Server.png" group-title="ICC TV Server", (ONLINE) MTunes
+http://10.16.100.200:8082/hls/m_tuNes_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/MadaniChannel" group-title="ICC TV Server", (ONLINE) Madani Channel
 http://10.16.100.207:8082/ICC TV Server/sunnahtv.m3u8
@@ -1395,24 +1397,17 @@ http://10.16.100.207:8082/ICC TV Server/qurantv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/PeaceTVBangla.png" group-title="ICC TV Server", (ONLINE) Peace TV Bangla
 http://10.16.100.207:8082/ICC TV Server/peacetv.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="ICC TV Server", (ONLINE) IPL 20 (1)
-http://10.16.100.201/ICC TV Server/bdsp2in.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="ICC TV Server", (ONLINE) IPL 20 (2)
-http://10.16.100.203:8082/bangla/spin2bd.m3u8
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="ICC TV Server", (ONLINE) IPL 20 (3)
-http://10.16.100.207:8082/ICC TV Server/insp2chbd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/SonyTen1.png" group-title="ICC TV Server", (ONLINE) Sony Ten 2
+http://10.16.100.207:8082/sports/sony_ten2_local.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/ICC TV Server/SonyTen1.png" group-title="ICC TV Server", (ONLINE) Sony Ten 1
-http://10.16.100.207:8082/ICC TV Server/ten1_720.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starICC TV Server2.jpg" group-title="ICC TV Server", (ONLINE) Star sports 1
+http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starICC TV Server2.jpg" group-title="ICC TV Server", (ONLINE) Star ICC TV Server 2
-http://10.16.100.207:8082/ICC TV Server/starICC TV Server2.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="ICC TV Server", (ONLINE) Star Sports Select 1
+http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
 
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="ICC TV Server", (ONLINE) Star ICC TV Server Select 1
-http://10.16.100.207:8082/ICC TV Server/starICC TV Server_select1.m3u8
-
-#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="ICC TV Server", (ONLINE) Star ICC TV Server Select 2
-http://10.16.100.207:8082/ICC TV Server/ssselect2.m3u8
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="ICC TV Server", (ONLINE) T sports
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 
