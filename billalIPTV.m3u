@@ -425,12 +425,17 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/573
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema Hd (5) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100313.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Indian Bangla", Travel XP HD Bangla
-http://tv.pmcon.net/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s86FPbs.png" group-title="Indian Bangla", Aakash Aath
 https://dn09146u4bwct.cloudfront.net/AAKASH_BANGLA.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Indian Bangla", Khushbo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549" group-title="Indian Bangla", Khushbo Bangla 2
+http://10.16.100.204:8082/hls/khushbo_TV_dish.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1R5LMY1fElazh6NeTcz-rT0FbqaYnWrdciMlhnWPwRoRO7T6wWiDvhDQ&s=10" group-title="Indian Bangla", Kalkata TV
+http://10.16.100.204:8082/hls/kolkatatv_local.m3u8
 
 
 
