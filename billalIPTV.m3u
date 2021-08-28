@@ -504,6 +504,8 @@ http://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/HPSfFVb/download-removebg-preview-1.png",Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf2fycFxtUupls1m_OWDIaueG3vUhUmMGqfkYanaI1NXP6OzxvnAobqVP1&s=10", Movies Active
+http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/630.m3u8?token=&token=GRtQWBcJRgkUAgoAV1VTUAABW1RYUlwCVw5YBg9bAFJbXw4AAlBRA1VEFRNHERFUVg9mX11EAlcBBk0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bC1UEUw4aFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUALDwxRQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbDg1WVkZOP
 
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png",Rishtey Cineplex
@@ -515,12 +517,12 @@ http://208.115.215.42/Sony_Sab_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodBH_z9mH2icjJQ58CIrboBUjHtMMWA5BzA&usqp=CAU" group-title="Hindi", Sony Pal
 http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/3478
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodBH_z9mH2icjJQ58CIrboBUjHtMMWA5BzA&usqp=CAU" group-title="Hindi", Sony Pal zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56272.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodBH_z9mH2icjJQ58CIrboBUjHtMMWA5BzA&usqp=CAU" group-title="Hindi", Sony Pal wi
+http://watchindia.net:8880/live/33253/72963/812.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="Hindi", Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="Hindi", Sony Wah zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56271.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU" group-title="Hindi", Sony Wah digi
+http://bd.digiiptv.net:25461/moznu43/PA2443/2465
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi2TazB9MuZECamSWZ02D-f47aIz889JjlxA&usqp=CAU",SONY Wah
 
 
@@ -541,7 +543,7 @@ http://103.153.39.34:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Hindi", Sony Pix 4K (4) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108297.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Hindi", Sony Max 4K (zain tv)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108244.ts
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/582.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/592.m3u8?token=&token=GRtQWBcJRgkUXloDDARTCFRbCFQJB1pWBQ8DBg8OWABSWwAMAAJTAwVEFRNHERFUVg9mX11EAlQLBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bClABUQsaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUALDwFUQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhSU1wRSw==
@@ -627,29 +629,30 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56368.ts
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png",ZEE Bollywood 
 http://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD internet tv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD (1) aliflaila
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD (2) internet tv
 http://103.81.104.118/hls/stream25.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi", Zee Cinema HD zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/103620.ts
 
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (1)
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (3)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ea01782c6689f21f02fd5da12f2ab9c9f565cea5ad71cdbe493f6ef01aa7f8cb1505aa2f2d76d8c370143c994a504af765a60dcc233e1296e561d8e80beb0bf0be6272949e752a69c91210e9eb649f1e32ea143a7969d63519ca1de570381830e8b9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MPu
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (2)
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (4)
 http://watchindia.net:8880/live/33253/72963/787.ts
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema 4K (zain tv)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108269.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema HD (5)
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/ydKOVT2.png",ZEE Classic
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56264.ts
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/ydKOVT2.png",ZEE Classic wi
+http://watchindia.net:8880/live/33253/72963/802.ts
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Classic" tvg-logo="https://dl.dropbox.com/s/lf6coe3owjqyncu/zeeclassic.jpg" group-title="Hindi",Zee Classic digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/586
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56362.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD dighi
+http://bd.digiiptv.net:25461/moznu43/PA2443/603
+
 
 
 
@@ -803,10 +806,10 @@ http://103.81.104.118/hls/stream3.m3u8
 http://watchindia.net:8880/live/33253/72963/2080.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (6) digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/707
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (7) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56315.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (7) Aliflaila
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 4K (8) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108253.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="English", Warner Bros Tv 
 http://bd.digiiptv.net:25461/moznu43/PA2443/2517 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", SyFy digi
