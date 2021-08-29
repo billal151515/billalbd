@@ -773,9 +773,9 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/56277.ts
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/108279.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (1)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2) zaintv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56244.ts
-#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2) bestott
+http://bestott.net:80/live/juk25mk1027/4796F1A24AF8AA8/34687.ts
+
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax
@@ -788,16 +788,16 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/2450
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies 
 http://77.83.117.60:8888/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Bein Fox Movies zain
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/112254.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime
-http://teslaiptv.com:8080/live/hannaxhanna/es576457/80175.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Bein Fox Movies titan
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/682191.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/500px-Fox_Crime_2017.svg.png" tvg-name="Fox Crime"  group-title="English", Fox Crime titan
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/682206.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (1)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (2)
-http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/56696.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (3)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (4) internet tv
@@ -861,54 +861,21 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/990
 #EXTINF:-1 tvg-logo="" group-title="English", FX digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/1108
 #EXTINF:-1 tvg-logo="" group-title="English", Netflix Action
-http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/29460
+
 
 #EXTINF:-1 tvg-logo="" group-title="English", Netflix Sci-fie
-http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/29461
-#EXTINF:-1 tvg-logo="" group-title="English", Bein Movie 1
-http://goiptv.co:8080/ziouiahmed/ldfqcx8bvm/1454
+
+#EXTINF:-1 tvg-logo="" group-title="English", Bein Movie premier
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/39599.ts
 #EXTINF:-1 tvg-logo="" group-title="English", Bein Movie Action
-http://pn.tvott.info/live/7109102728/5104566057/80539.ts
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/39604.ts
 #EXTINF:-1 tvg-logo="" group-title="English", Bein Movie Drama
-http://pn.tvott.info/live/7109102728/5104566057/78817.ts
+
 #EXTINF:-1 tvg-logo="" group-title="English", Filmrise movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English", Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Action (1)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/86792.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Action (2)
-http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/15720.ts
-
-
-#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg" group-title="English", Sky Cinema Premier (1)
-http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/671389.ts
-
-
-#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184453.jpg" group-title="English", Sky Cinema Sci-fie&Horror (1)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/86598.ts
-
-
-#EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/73/184453.jpg" group-title="English", Sky Cinema Sci-fie&Horror (2)
-http://teslaiptv.com:8080/live/hannaxhanna/es576457/81772.ts
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Sky_Cinema_Thriller_HD_2017_uk.png/revision/latest?cb=20200608130400" group-title="English", Sky Cinema Thriller (1)
-http://teslaiptv.com:8080/live/hannaxhanna/es576457/81774.ts
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Sky_Cinema_Thriller_HD_2017_uk.png/revision/latest?cb=20200608130400" group-title="English", Sky Cinema Thriller (2)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/86595.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Sky_Cinema_Select_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Select (1)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/86600.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Sky_Cinema_Select_HD_DE_Logo_2016.png" group-title="English", Sky Cinema Select (2)
-http://mytv.fun:8080/live/5kfbgz4i86/t94rg4o3ks/6551.ts
 
 
 
