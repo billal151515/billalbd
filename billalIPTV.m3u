@@ -855,11 +855,11 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/imUxQUN.png" group-title="English", MBC Max digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2445
 
-#EXTINF:-1 tvg-logo="" group-title="English", Horor channel digi
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/The_HORRO%D0%AF_Channel.png/revision/latest?cb=20100401091116" group-title="English", Horor channel digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/108
-#EXTINF:-1 tvg-logo="" group-title="English", Starz Cinema digi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIkw48_CQCoD63tSkkESGIMWpOihTNGoBvQ&usqp=CAU" group-title="English", Starz Cinema digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/990
-#EXTINF:-1 tvg-logo="" group-title="English", FX digi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOrGoMtddrMN0axBkX2BrcJ7UwD62t15ReEsDk4X5ln8q4syHN__4Abg&s=10" group-title="English", FX digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/1108
 #EXTINF:-1 tvg-logo="" group-title="English", Netflix Action
 
@@ -867,15 +867,15 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/1108
 #EXTINF:-1 tvg-logo="" group-title="English", Netflix Sci-fie
 
 #EXTINF:-1 tvg-logo="" group-title="English", Bein Movie premier
-http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/39599.ts
+
 #EXTINF:-1 tvg-logo="" group-title="English", Bein Movie Action
-http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/39604.ts
+
 #EXTINF:-1 tvg-logo="" group-title="English", Bein Movie Drama
 
-#EXTINF:-1 tvg-logo="" group-title="English", Filmrise movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuh5sfGpcXW4cr-vOlfypG6HeOAHdjDvSK8MNAcDHRrzSxREY5jLfFTbk&s=10" group-title="English", Filmrise movies
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English", Movie kingdom
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkxzW5e41jbgtCrdkhuXlvOHERIlWsxurUA&usqp=CAU" group-title="English", Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 
