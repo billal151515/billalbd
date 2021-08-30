@@ -762,7 +762,7 @@ http://watchindia.net:8880/live/33253/72963/2081.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", Showtime HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/373
-#EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD (1)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (1)
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (2)
 http://103.153.39.34:8000/play/a050/index.m3u8
@@ -779,9 +779,9 @@ http://bestott.net:80/live/juk25mk1027/4796F1A24AF8AA8/34687.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3mpHZPn.png" group-title="English",Rush Channel
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" tvg-name="Cinemax"  group-title="English", Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" tvg-name="Cinemax"  group-title="English", Cinemax digi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" tvg-name="Cinemax"  group-title="English", Cinemax digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/708
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" tvg-name="Fox movies"  group-title="English", Fox movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
