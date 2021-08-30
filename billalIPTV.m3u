@@ -813,11 +813,11 @@ http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/31252.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="English", Warner Bros Tv 
 http://bd.digiiptv.net:25461/moznu43/PA2443/2517 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", SyFy digi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVeZmoPOFwC-Efu7kLZ4S_39cb7beXHaSoka2PVjWneujad7qsEjhfKdk&s=10" group-title="English", SyFy digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
 http://143.244.60.10/HINDI__MNX_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+ bestott
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9Z9TbGhZIOdRVGQadupNazF7tyLmrn3MAg&usqp=CAU" group-title="English", MN+ bestott
 http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/34699.ts
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World
@@ -826,7 +826,7 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/34685.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier 4K (zain tv)
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzE6YhZ9o85y46lraiWkIzuEYkG0CIhP-1rQ&usqp=CAU" group-title="English", AMC digi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyk0XqU8NTrOU2Zuq4wzXNZ8YLnSpS2RllMQ&usqp=CAU" group-title="English", AMC digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (1)
 http://bd.digiiptv.net:25461/moznu43/PA2443/588
