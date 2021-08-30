@@ -339,8 +339,8 @@ http://103.81.104.118/hls/stream28.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:37:9F:10&ip=202.134.8.143&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD(4) digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/976 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla  HD (5) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/100278.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla  HD (5) 
+http://143.244.60.10/BENGALI__COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (1) internet tv
 http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Indian Bangla", Enter 10 Bangla (2)
@@ -361,9 +361,8 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/975
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD(5) internetvtv
 http://103.81.104.118/hls/stream30.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (6) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56376.ts
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD (6) icc
+http://10.16.100.204:8082/hls/z_bangla_local.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD (1)
 http://bd.digiiptv.net:25461/moznu43/PA2443/898
@@ -379,8 +378,8 @@ http://103.81.104.118/hls/stream31.m3u8
 http://103.159.4.38:8080/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (6) zain tv 
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/100310.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Star_Jalsha_2019.png" group-title="Indian Bangla",Star Jalsha HD (6) 
+http://173.199.120.51/hls/chsj.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies(1) internet tv
 http://103.81.104.118/hls/stream27.m3u8
@@ -390,11 +389,11 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/962
 http://tvflix2.ddns.net/bee-global/jalshamovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (4)
 http://jupiter.bdcabletv.com/JalshaMovies/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (5) 
-http://103.81.104.118/hls/stream27.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (5) icc
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (6) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/100311.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian Bangla", Jalsha Movies SD (6) 
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (1)
 http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
@@ -402,8 +401,8 @@ http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 http://bd.digiiptv.net:25461/moznu43/PA2443/566
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (3)
 http://tvflixbdvip.ddns.net/hls/sony8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (4)
-http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath (4) icc
+http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla", Sony Aath HD (5) zain tv
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/100309.ts
 
