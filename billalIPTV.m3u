@@ -724,26 +724,26 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/2597
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (1) aliflaila
-http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (1) 
+http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN (2) internet tv
 http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (3)
 http://bd.digiiptv.net:25461/moznu43/PA2443/2453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English", AXN  (4)
-http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (1)
 http://103.81.104.118/hls/stream1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3) aliflaila
-http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png"group-title="English", Sony Pix HD zain
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108297.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Pix HD (3) 
+http://54.39.158.38:8080/9876543210/9876543210/7258
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png"group-title="English", Sony Pix HD (4) wi
+http://watchindia.net:8880/live/33253/72963/2101.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Max 4K zain
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108244.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English", Sony Action
 http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/50396.ts
@@ -758,20 +758,20 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/372
 http://bd.digiiptv.net:25461/moznu43/PA2443/2439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO Smooth wi
 http://watchindia.net:8880/live/33253/72963/2081.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO tesla
-http://teslaiptv.com:8080/live/hannaxhanna/es576457/68237.ts  hbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", HBO tesl
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English", Showtime HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/373
 #EXTINF:-1 tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English", Movies Now HD (1)
 http://watchindia.net:8880/live/33253/72963/2102.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (2)
 http://103.153.39.34:8000/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (3) tvott
-http://pn.tvott.info/live/7109102728/5104566057/83604.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (3) bestott
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/34697.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD (4) zaintv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56277.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="English", Movies Now HD 4K (5) zaintv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108279.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (1)
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English", Star Movies Select HD (2) bestott
@@ -797,7 +797,7 @@ http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/682206.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (1)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (2) titan
 http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/56696.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (3)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
@@ -807,8 +807,8 @@ http://103.81.104.118/hls/stream3.m3u8
 http://watchindia.net:8880/live/33253/72963/2080.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (6) digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/707
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (7) Aliflaila
-http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies (7) bestott
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/31252.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies 4K (8) zain tv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWdROQp.png" group-title="English", Warner Bros Tv 
@@ -817,15 +817,15 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/2517
 http://bd.digiiptv.net:25461/moznu43/PA2443/725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MNX
 http://143.244.60.10/HINDI__MNX_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+
-http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="English", MN+ bestott
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/34699.ts
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier
-http://178.79.161.66/woh/index.m3u8?id=47859
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier bestott
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/34685.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", Star World Premier 4K (zain tv)
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/108255.ts
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ee/93274/png/star-world.png" group-title="English", AMC digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (1)
@@ -834,12 +834,12 @@ http://bd.digiiptv.net:25461/moznu43/PA2443/588
 http://103.81.104.118/hls/stream7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (3)
 http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) 
-http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="English", UTV action (4) wi
+http://watchindia.net:8880/live/33253/72963/805.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English 
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56267.ts
+http://watchindia.net:8880/live/33253/72963/811.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English HD
-
+http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/72240.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies Hindi (1)
 http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies hindi (tvott)
