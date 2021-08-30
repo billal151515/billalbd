@@ -465,17 +465,17 @@ http://tv.zaintv.net/Davidemmanuel/D477376480/85681
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/CFWSAxE.png",B4U Movies
-http://14.199.164.20:4001/play/a0wj/83944435.m3u8
+http://14.199.164.20:4001/play/a0wj/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
-#https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD (1) internet tv
 http://103.81.104.118/hls/stream29.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD (2) zain tv
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56325.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD (2) 
+http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/632.m3u8?token=GRtQWBcJRgkUAg0BAwdRVVVTDwVfVQgCBANQDVwPUwIDDA8NUwdVBgNEFRNHERFUVg9mX11EAlcBBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bAFQAUhsUGwEZEFZECFhdawEGR14BXBQDCE0NXhpDW1dmBVYPWFZdRltGAxRKG1hHFUELWRdVWhVEWghGRABAXBtbEVMKCwhGTUZQWRNXRUYcQQtZF1VaFURdGUZTD0dQVg8RWBtVChFZRh8UD0puRgAQRUUHWFtcFBpbEAZDGBtUAEs9WldXCgQHR18JV0IWX0EDFU4bW1YIURVdRD5EUF1DCUAICghWV0ZO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD (3)
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
