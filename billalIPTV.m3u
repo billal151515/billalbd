@@ -546,8 +546,11 @@ http://tv.zaintv.net/live/Davidemmanuel/D477376480/108297.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Hindi", Sony Max 4K (zain tv)
 http://titanmedia.one:2082/live/Rafa/ZY6MJn0jAp/582.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-http://185.102.219.78/live/KjPypddrq4/8p1pLrAVDh/592.m3u8?token=&token=GRtQWBcJRgkUXloDDARTCFRbCFQJB1pWBQ8DBg8OWABSWwAMAAJTAwVEFRNHERFUVg9mX11EAlQLBE0WTEoEQT1QXBteQ1cGBF4IExhHF1haBxsMCUoaEVtSQw4bClABUQsaFUYEHEdTFFdQWDoHVEELWlMbXFYUXlpNFlZXPlcHVFlXAENeEQZEFRNdFhMTDQxMWlVKGgNbQhNVTVxDCUALDwFUQ0gRVQlMX0AXGhMNDExaVUoaBEpCBFpKUA5dQAMaVFcUXBEaRFBCaxcGQkMQXFdUA0pDCBRRFhUbDFIaZltWCg8BUEIPVl9HR1kTBUAVFFQJVghGWRNrSVAFEVgbCQhSU1wRSw==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony TV (1)
+http://oqab.life:8080/3204/3204/112
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony TV (2)
+http://watchindia.net:8880/live/33253/72963/1969.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/593
