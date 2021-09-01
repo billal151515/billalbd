@@ -686,16 +686,16 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary", History Channel
 http://topwin-tv.my.id/2/chunklist.m3u8?id=history&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD English
-http://tv.zaintv.net/live/Davidemmanuel/D477376480/56360.ts
+http://watchindia.net:8880/live/33253/72963/790.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Hindi
-http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Eng 2 smooth
+http://54.39.158.38:8080/9876543210/9876543210/15448
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary", National Geographic HD Bangla
 http://84.17.41.7/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild HD
 http://tv.zaintv.net/live/Davidemmanuel/D477376480/56241.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary", National Geographic Wild Hindi
-http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+http://eurotv.vip:80/544/544/51421
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsBy7M5CcCeKvwylOeNWglKtrnJf1qEU8PR8JwixyLCsHnp7ZmyC3BNo&s=10" group-title="Documentary", Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?token
