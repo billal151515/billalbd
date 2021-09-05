@@ -843,11 +843,13 @@ http://watchindia.net:8880/live/33253/72963/805.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English 
 http://watchindia.net:8880/live/33253/72963/811.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV English HD
-http://bestott.net/live/juk25mk1027/4796F1A24AF8AA8/72240.ts
+http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies Hindi (1)
 http://jupiter.bdcabletv.com/ENC-20/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="English", UTV Movies hindi (working)
-http://oqab.life:8080/live/3204/3204/3819.ts
+http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa6HGcs5Wga2OEyPkQCJSWFfofNHuC_hFtvw&usqp=CAU" group-title="English", MBC Action HD digi
 http://bd.digiiptv.net:25461/moznu43/PA2443/2462
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ydC4La.png" group-title="English", MBC HD 2
